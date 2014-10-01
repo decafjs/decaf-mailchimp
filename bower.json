@@ -1,0 +1,25 @@
+{
+  "name": "decaf-mailchimp",
+  "main": "index.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/decafjs/decaf-mailchimp",
+  "authors": [
+    "Michael Schwartz <mykesx@gmail.com>"
+  ],
+  "description": "MailChimp module for decafjs",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "email",
+    "campaigns"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
